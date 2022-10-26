@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gatopao.png">
+	<!-- CRIADO POR MIM SEM ADOBE ANIMATE PQ SOU POBRE -->
+	<SubTexture name="elefante0000" x="0" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400"/>
+</TextureAtlas>
