@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				203,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "elefante"
+		},
+		{
+			"offsets": [
+				34,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "elefante"
+		},
+		{
+			"offsets": [
+				49,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "elefante"
+		},
+		{
+			"offsets": [
+				60,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "elefante"
+		},
+		{
+			"offsets": [
+				-140,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "elefante"
+		},
+		{
+			"offsets": [
+				49,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "elefante"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sniffer",
+	"position": [
+		-10,
+		140
+	],
+	"healthicon": "sniffer",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}
